@@ -1,0 +1,43 @@
+# Data files
+*.pkl
+*.pgn
+*.pgn.zst
+*.pgn.zst.download
+*.csv
+*.json
+data/
+/kaggle/
+
+# Generated content
+chess_visualizations/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.html
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Cache
+.cache/
