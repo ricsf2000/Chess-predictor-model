@@ -145,7 +145,7 @@ def main():
     """
     parser = argparse.ArgumentParser(description='Verify the integrity of the chess dataset.')
     parser.add_argument('--file', type=str, 
-                        default="data/lichess_processed_1000000_games_first_15_moves.pkl",
+                        default="lichess_processed_1000000_games_first_15_moves.pkl",
                         help='Path to the dataset file')
     parser.add_argument('--hash', type=str, 
                         default="lichess_processed_1000000_games_first_15_moves.sha256",
