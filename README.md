@@ -3,9 +3,8 @@ Chess game outcome predictor model made for the Data Science II final project.
 
 ## Setup Instructions
 
-1. **Download the Chess Dataset**:
-   - Download the dataset from: https://uofh-my.sharepoint.com/:u:/g/personal/ramoral4_cougarnet_uh_edu/EXBjcNdmlglInGvllzDtAu0BD-d-fhdlXgf-vIPS0EFbDQ?e=21zRXA 
-
+1. **Chess Dataset**:
+   - The dataset will be available as a .zip file called lichess_processed_1000000_games_first_15_moves.pkl.zip
 
 3. **Verify Dataset Integrity**:
    - Verify that the processed dataset matches our reference hash:
