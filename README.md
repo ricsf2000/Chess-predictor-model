@@ -4,7 +4,7 @@ Chess game outcome predictor model made for the Data Science II final project.
 ## Setup Instructions
 
 1. **Chess Dataset**:
-   - The dataset will be available as a .zip file called lichess_processed_1000000_games_first_15_moves.pkl.zip
+   - The dataset will be available as a .zip file called data.zip
 
 3. **Verify Dataset Integrity**:
    - Verify that the processed dataset matches our reference hash:
